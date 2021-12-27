@@ -1,0 +1,58 @@
+///////////////////////////////////////////////////////
+//////////// ticket Coopserp General
+////////////////Con usuarios/////////////////////
+///////////////////////////////////////////////////////
+
+////////////09082021
+Creado y editado por Sebastian Guevara Sanchez
+Informacion de contacto:
+sebasguesa@hotmail.com
+sebastrabajo96@gmail.com
++57 3145302542
+https://github.com/guevaraStian
+
+
+////////////Referencias
+http://github.com/amnersaucedososa
+https://facturacionweb.site/blog/sistema-de-tickets-y-soporte-con-php-y-mysql/
+
+En total son 8 carpetas donde lib es de librerias, images de imagnes, 
+css de los estilos, config de la conexion a la base de datos, archivos
+ donde se guardan los anexos, por ultimo estan admin, trabajador y usuario 
+ que son los 3 roles que tiene esta aplicacion.
+
+En las carpetas usuario, trabajador y admin estan los ajax que imprimen las 
+tablas en las vistas, los modales que son para cuando se unda un boton quede 
+en la misma pagina, el js con algunos codigos que estaran en las vista,  los 
+action es donde estan las consultas e inserciones de informacion a la base de datos. 
+en donde hay un archivo llamado login.php, en este archivo se modifican los  
+roles si se van a ampliar a mas roles con mas caracteristicas.
+
+
+
+////////////////////////////////
+-- TIPIFICACION DE PROBLEMAS --
+////////////////////////////////
+Problemas con la biometria
+Problemas con el computador
+Problemas con la impresora
+Problemas en la linea telefonica
+Problemas con el internet
+Problemas con una plataforma
+Porblema con query de excel
+problemas con un certificado
+problemas con el registro de los juegos virtuales
+Problemas con un bono
+Habilitar liquidacion
+Habilitar usuario
+Configurar impresora
+Configurar query de excel
+Instalacion de algo
+Cambio de informacion en un recibo
+Cambiar fecha del lote (puede ser lo mismo que modificiar un recibo)
+Editar informacion de una cuenta 
+Corregir fecha de liquidacion
+Reportar caida de canal
+Reimprimir recibo de caja
+Modificar timbre o GGG
+Consulta
